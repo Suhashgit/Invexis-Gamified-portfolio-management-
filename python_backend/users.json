@@ -2,5 +2,47 @@
   {
     "email": "test@example.com",
     "password": "6e659deaa85842cdabb5c6305fcc40033ba43772ec00d45c2a3c921741a5e377"
+  },
+  {
+    "email": "Umashankarsuhas18@gmail.com",
+    "password": "8030aa73cb1de20da7cd4326318e7008d5f59fe0ceca8ea9295f047224dd6213",
+    "watchlist": [
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc."
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc."
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corp."
+      },
+      {
+        "symbol": "^GSPC",
+        "name": "S&P 500 Index"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "AMAZON.COM INC"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "TESLA INC"
+      }
+    ]
+  },
+  {
+    "email": "awesomerider343@gmail.com",
+    "password": "a7e55b0a600a433bca13f2c91d45717cc639a0aac8253dc432035045abfd25aa"
+  },
+  {
+    "email": "BABY@gmail.com",
+    "password": "cc245edb7c8cb308c03128660ad328a65ef89365753935f2e9b5f86fa77998e2"
+  },
+  {
+    "email": "e1399128@u.nus.edu",
+    "password": "9cc097b85da770541a2701567efb712820964e6379367cb0274b3095348f3dc6"
   }
 ]
